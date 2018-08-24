@@ -47,13 +47,11 @@ To (Linux)
 
 ```
 $mxmlc_path = "/opt/flex/bin/mxmlc";
-
 ```
 To (Windows)
 
 ```
 $mxmlc_path = "C:/abdoe/flex/mxmlc";
-
 ```
 
 Make sure that the path is vaild.
