@@ -62,9 +62,10 @@ Make sure that the path is vaild.
 
 * **Abdullah Hussam** [Ahussam](https://github.com/ahussam)
 
-## License
+## Screenshot 
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+![swfGen](https://raw.githubusercontent.com/ahussam/swf-generator/master/SwfGen.png)
+
 
 
 
