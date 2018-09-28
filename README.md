@@ -16,7 +16,8 @@ You will need Flex SDK, here is how you can install it.
 
 #### Windows 
 
-1- Download Adoble Flex from [here](https://www.adobe.com/devnet/flex/flex-sdk-download.html). 
+1- Download Adoble Flex from [here](https://www.adobe.com/devnet/flex/flex-sdk-download.html).  
+
 2- Export Files, then move them to C.
 
 
